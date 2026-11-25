@@ -1,0 +1,7 @@
+{
+  "name": "smartphone-rd",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
